@@ -1,4 +1,4 @@
-# bract-artwork
+# artwork
 
 Artwork for Bract.
 
